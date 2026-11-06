@@ -1,0 +1,55 @@
+PROMPTS TO COPY · AI FUNDAMENTALS · CONTOSO FREIGHT (FICTIONAL)
+Start a new chat for each task. Attach the file named in brackets.
+
+==================================================================
+BREAK THE BOT (Section 2). Try at least one from each list.
+==================================================================
+Likely to be brilliant
+- Write a 120-word toolbox talk on safe reversing in a yard for drivers with limited English. Short sentences. End with two questions to check understanding.
+- Explain the difference between the Incoterms DAP and DDP to a new procurement assistant using a pizza delivery analogy, in under 100 words.
+
+Possibly daft (does it admit what it doesn't know?)
+- What did our managing director say at Monday's team meeting?
+- Draw the M25 as a text map with every junction number in order.
+- How many times does the letter R appear in "refrigerated trailer"?
+- Give me three UK court cases about forklift injuries, with citations.
+
+==================================================================
+SAME TASK, TWO PROMPTS (Section 4). Run each in a NEW chat.
+==================================================================
+Prompt 1
+Write an email to a haulier who keeps missing collections.
+
+Prompt 2
+I'm a transport planner at Contoso Freight writing to Lee Carter, Operations Manager at Northwind Transport. They've missed three collections at Daventry this month: 2, 9 and 21 October. Our agreement allows a formal service review after three failures in a month. Draft an email proposing a service review meeting within two weeks. Format: a subject line and three short paragraphs, under 150 words. Firm but fair. UK English. Don't mention rates or admit liability.
+
+==================================================================
+PROMPT GRAND PRIX (Section 4)
+==================================================================
+LAP 1: start lazy, the way most people do
+A  [03_Incident_report.docx]                  Summarise this.
+B  [04_Risk_assessment_manual_handling.docx]  Write a toolbox talk on manual handling.
+C  [05_Haulier_email_thread.docx]             Write an email to a haulier who keeps missing collections.
+D  [06_Research_brief.docx]                   What is ISO 14083?
+E  [07_Delivery_exceptions.xlsx]              Analyse this spreadsheet.
+
+LAP 2: front-load it (fill in the brackets, delete what you don't need)
+I work at Contoso Freight as [your role].
+This is for [who will read it] who needs to [what they'll do with it].
+Background: [what they need to know].
+Task: [exactly what you want], using the attached [file].
+Format: [bullets / table / email / script], no more than [length].
+Constraints: [tone; what to leave out; UK English].
+Example: [optional: paste a short example of what good looks like].
+
+LAP 3: the pit stop (use one or more)
+- Before you change anything, what's missing or unclear in my request? Ask me up to three questions.
+- Check every number, date and name in your answer against the attached file. List any you can't find in it.
+- What would the [Director of GRC / haulier / warehouse team] push back on in this? Fix it.
+- Rewrite this for [audience] in [number] words. Keep [the bits that must stay].
+
+==================================================================
+MY FIRST PROMPT (Section 6)
+==================================================================
+Pick a real task from your week and write it with the Lap 2 template.
+Don't paste anything you wouldn't want to see in an email to the wrong person.
