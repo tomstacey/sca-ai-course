@@ -1,4 +1,4 @@
-PROMPTS TO COPY · AI FUNDAMENTALS · CONTOSO FREIGHT (FICTIONAL)
+PROMPTS TO COPY · AI IN SUPPLY CHAIN · CONTOSO FREIGHT (FICTIONAL)
 Start a new chat for each task. Attach the file named in brackets.
 
 ==================================================================
@@ -53,3 +53,45 @@ MY FIRST PROMPT (Section 6)
 ==================================================================
 Pick a real task from your week and write it with the Lap 2 template.
 Don't paste anything you wouldn't want to see in an email to the wrong person.
+
+
+##################################################################
+ADVANCED · AFTERNOON
+##################################################################
+
+==================================================================
+BEAT THE FORECAST (Section 1)  [11_Demand_history.xlsx]
+==================================================================
+I'm a planner at Contoso Freight. The attached file shows the pallets we delivered each week to Fourth Coffee from April to September 2026. Forecast the four weeks of October 2026 as a range (low, likely, high) for each week. Explain your method in two sentences, and tell me what your forecast can't know about.
+
+==================================================================
+ASK THE DATA (Section 2)
+==================================================================
+Pick your card's question. Use this shape, then the check prompt.
+
+I work at Contoso Freight as [your role]. This is for [the person on your card], who needs to decide [what].
+Using the attached [file], answer: [your card's question].
+Show the table or calculation you used for every number.
+Format: five bullets for a busy manager, then the supporting table.
+List any data problems you noticed (blanks, duplicates, odd values) and any assumptions you made.
+
+CHECK PROMPT
+Which numbers in your answer depend on assumptions or on rows with data problems? Show me how each one would change if those rows were fixed or left out.
+
+==================================================================
+THE 07:00 CALL (Section 3)  [12_Disruption_briefing.docx]
+==================================================================
+I'm on Contoso Freight's incident team. Our temperature-controlled haulier went into administration overnight. Using only the attached briefing:
+1. Rank the top six risks in a table: risk, why it matters, likelihood (H/M/L), impact (H/M/L), owner.
+2. Write a plan for the next 72 hours: action, owner, by when.
+3. Draft the one-page update the Managing Director asked for, including the decisions we need from her.
+Mark anything that isn't stated in the briefing as an assumption. UK English.
+
+CHECK PROMPT
+List every fact in your answer that is not in the briefing. For each option for chilled capacity, what would stop us using it?
+
+==================================================================
+AI OPPORTUNITY CANVAS (Section 4)
+==================================================================
+I work at Contoso Freight as [role]. Here is a task that takes my team [time] a [week/month]: [describe it].
+Help me fill in an AI opportunity canvas: what job the AI would do (predict, optimise, see, write or act), the data it needs, the level of autonomy (0 to 5) and where a person checks, the value and how we'd measure it, the risks and controls, and whether this is a job for me, my team or IT. Ask me up to three questions first.
